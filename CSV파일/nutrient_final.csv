@@ -1,0 +1,31 @@
+class_name,product_name,serving_size,calorie_kJ,calorie_kcal,carbohydrate,sugar,protein,fat,fat_2,fat_3,fat_4,fat_5,dietary_fiber,potassium,cholesterol,salt,voice_1,voice_2
+TOP_black,맥심 티오피 더블랙,1캔 (275 ml),29 kJ,7 kcal,1.00g,0.00g,0.40g,0.10g,0.000g,0.000g,null,null,null,null,0mg,35mg,1캔 275 ml안에7 kcal가 있습니다.,설탕당은 0.00g 지방은 0.10g 나트륨은 35mg 이 포함되어있습니다.
+baristarules_espressolatte,바리스타룰스에스프레소라떼,1컵 (250 g),678 kJ,162 kcal,22.00g,20.00g,5.00g,6.00g,3.400g,0.000g,null,null,null,null,20mg,120mg,1컵 250 g안에162 kcal가 있습니다.,설탕당은 20.00g 지방은 6.00g 나트륨은 120mg 이 포함되어있습니다.
+cafrisun,카프리썬 오렌지,1봉지 (200 ml),251 kJ,60 kcal,15.00g,15.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,0mg,1봉지 200 ml안에60 kcal가 있습니다.,설탕당은 15.00g 지방은 0.00g 나트륨은 0mg 이 포함되어있습니다.
+chilsungcider,칠성사이다,1캔 (355ml),649 kJ,155 kcal,39.00g,38.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,10mg,1캔 355ml안에155 kcal가 있습니다.,설탕당은 38.00g 지방은 0.00g 나트륨은 10mg 이 포함되어있습니다.
+chilsungcider_zero,칠성사이다 제로,1병 (500 ml),0 kJ,0 kcal,8.00g,0.00g,0.00g,0.00g,0.000g,0.000g,null,null,0.0g,0mg,0mg,12mg,1병 500 ml안에0 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 12mg 이 포함되어있습니다.
+cocacola,코카콜라 355ml,1캔 (355 ml),636 kJ,152 kcal,38.00g,38.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,11mg,1캔 355 ml안에152 kcal가 있습니다.,설탕당은 38.00g 지방은 0.00g 나트륨은 11mg 이 포함되어있습니다.
+cocacola_zero,코카콜라제로 250ml,1회 (250 ml),0 kJ,0 kcal,0.00g,0.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,19mg,1회 250 ml안에0 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 19mg 이 포함되어있습니다.
+contrabass_sweetblack,콘트라베이스 스위트 블랙,1인분 (500 ml),335 kJ,80 kcal,19.00g,19.00g,1.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,123mg,1인분 500 ml안에80 kcal가 있습니다.,설탕당은 19.00g 지방은 0.00g 나트륨은 123mg 이 포함되어있습니다.
+fanta_orange,환타 오렌지 355ml,1인분 (355 ml),653 kJ,156 kcal,39.00g,39.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,11mg,1인분 355 ml안에156 kcal가 있습니다.,설탕당은 39.00g 지방은 0.00g 나트륨은 11mg 이 포함되어있습니다.
+gatorade_lemon,게토레이 레몬 600ml,1회 (600 ml),669 kJ,160 kcal,40.00g,39.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,300mg,1회 600 ml안에160 kcal가 있습니다.,설탕당은 39.00g 지방은 0.00g 나트륨은 300mg 이 포함되어있습니다.
+georgiacraft_black,크래프트 블랙,1병 (470 ml),59 kJ,14 kcal,2.40g,0.00g,1.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,82mg,1병 470 ml안에14 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 82mg 이 포함되어있습니다.
+haneulbori,하늘보리 500ml,1병 (500 ml),247 kJ,59 kcal,14.00g,0.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,0mg,1병 500 ml안에59 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 0mg 이 포함되어있습니다.
+heotgaecha,광동 헛개차 500ml,1병 (500ml),0 kJ,0 kcal,0.00g,0.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,50mg,1병 500ml안에0 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 50mg 이 포함되어있습니다.
+honeyyuja,허니유자 ,1회 (280 ml),586 kJ,140 kcal,35.00g,34.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,145mg,1회 280 ml안에140 kcal가 있습니다.,설탕당은 34.00g 지방은 0.00g 나트륨은 145mg 이 포함되어있습니다.
+hotsix_org,핫식스,1캔 (250 ml),481 kJ,115 kcal,29.00g,29.00g,0.00g,0.00g,0.000g,0.000g,null,0.000g,null,null,0mg,75mg,1캔 250 ml안에115 kcal가 있습니다.,설탕당은 29.00g 지방은 0.00g 나트륨은 75mg 이 포함되어있습니다.
+letsbe,레쓰비 150ml,1캔 (150 ml),188 kJ,45 kcal,10.00g,10.00g,1.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,75mg,1캔 150 ml안에45 kcal가 있습니다.,설탕당은 10.00g 지방은 0.00g 나트륨은 75mg 이 포함되어있습니다.
+letsbe_grande_hazelnut,레쓰비 그란데 헤이즐넛,1인분 (500 ml),502 kJ,120 kcal,29.00g,30.00g,1.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,105mg,1인분 500 ml안에120 kcal가 있습니다.,설탕당은 30.00g 지방은 0.00g 나트륨은 105mg 이 포함되어있습니다.
+minutemaid_org_orange,미닛메이드 오리지널 오렌지,1병 (350ml),552 kJ,132 kcal,31.00g,26.00g,2.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,95mg,1병 350ml안에132 kcal가 있습니다.,설탕당은 26.00g 지방은 0.00g 나트륨은 95mg 이 포함되어있습니다.
+narangdcider,나랑드 사이다 제로 245ml,1인분 (245 ml),0 kJ,0 kcal,0.00g,0.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,45mg,1인분 245 ml안에0 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 45mg 이 포함되어있습니다.
+oksususuyeomcha,광동 옥수수 수염차 500ml,1병 (500 ml),0 kJ,0 kcal,0.00g,0.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,50mg,1병 500 ml안에0 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 50mg 이 포함되어있습니다.
+pepsi_zero,제로콜라 펩시,1인분 (355 ml),0 kJ,0 kcal,0.00g,0.00g,0.00g,0.00g,0.000g,0.000g,0.000g,0.000g,0.0g,0mg,0mg,95mg,1인분 355 ml안에0 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 95mg 이 포함되어있습니다.
+picnic_apple,피크닉 사과,1회 (200 ml),293 kJ,70 kcal,17.00g,16.00g,1.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,60mg,1회 200 ml안에70 kcal가 있습니다.,설탕당은 16.00g 지방은 0.00g 나트륨은 60mg 이 포함되어있습니다.
+pocarisweat,포카리스웨트 500ml,1병 (500 ml),523 kJ,125 kcal,31.00g,30.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,250mg,1병 500 ml안에125 kcal가 있습니다.,설탕당은 30.00g 지방은 0.00g 나트륨은 250mg 이 포함되어있습니다.
+powerO2_orange,파워오투 오렌지,1인분 (500 ml),372 kJ,89 kcal,21.00g,21.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,6mg,1인분 500 ml안에89 kcal가 있습니다.,설탕당은 21.00g 지방은 0.00g 나트륨은 6mg 이 포함되어있습니다.
+powerade_mountainblast,파워에이드 마운틴블라스트 600ml,1페트 (355 ml),151 kJ,36 kcal,9.00g,9.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,188mg,1페트 355 ml안에36 kcal가 있습니다.,설탕당은 9.00g 지방은 0.00g 나트륨은 188mg 이 포함되어있습니다.
+sprite,스프라이트 355ml,1캔 (355 ml),669 kJ,160 kcal,40.00g,40.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,33mg,1캔 355 ml안에160 kcal가 있습니다.,설탕당은 40.00g 지방은 0.00g 나트륨은 33mg 이 포함되어있습니다.
+sprite_zero,스프라이트 제로,1캔 (500 ml),0 kJ,0 kcal,0.20g,0.00g,0.00g,0.00g,0.000g,0.000g,0.000g,0.000g,0.0g,0mg,0mg,3mg,1캔 500 ml안에0 kcal가 있습니다.,설탕당은 0.00g 지방은 0.00g 나트륨은 3mg 이 포함되어있습니다.
+starbucks_cafelatte,스타벅스 컵커피 카페라떼,1개 (270 ml),900 kJ,215 kcal,23.00g,20.00g,6.10g,10.80g,0.500g,5.700g,null,null,null,null,33mg,154mg,1개 270 ml안에215 kcal가 있습니다.,설탕당은 20.00g 지방은 10.80g 나트륨은 154mg 이 포함되어있습니다.
+toreta,토레타,1병 (500 ml),347 kJ,83 kcal,20.00g,20.00g,0.80g,0.00g,0.000g,0.000g,null,null,null,null,0mg,291mg,1병 500 ml안에83 kcal가 있습니다.,설탕당은 20.00g 지방은 0.00g 나트륨은 291mg 이 포함되어있습니다.
+welchs_grape,웰치스 그레이프맛,1캔 (355 ml),803 kJ,192 kcal,48.00g,46.00g,0.00g,0.00g,0.000g,0.000g,null,null,null,null,0mg,0mg,1캔 355 ml안에192 kcal가 있습니다.,설탕당은 46.00g 지방은 0.00g 나트륨은 0mg 이 포함되어있습니다.
